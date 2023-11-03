@@ -4,14 +4,21 @@
 <h1 align="center">Hi 👋, I'm Kaveendra Randeera</h1>
 <h3 align="center">Full Stack Software Engineer | BSc. Engineering Graduate.</h3>
 
-<p align="center">
-<a href="https://twitter.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joetancy" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/randeera/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joetancy" height="40" width="40" /></a>
-<a href="https://fb.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joetancy" height="40" width="40" /></a>
-<a href="https://instagram.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joetancy" height="40" width="40" /></a>
-</p>
 
-# 💫 About Me:
+<div align="center" >
+  <a href="https://www.linkedin.com/in/randeera/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"        width="32" height="32" alt="linkedin logo"  />
+  </a> 
+  <a href="https://twitter.com/Kaveendra1st" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"         width="32" height="32" alt="twitter logo"/>
+  </a>
+  <a href="mailto:khkrandeera@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"           width="32" height="32" alt="gmail logo"  />
+  </a>
+</div>
+
+
+# 👨‍💻 About Me:
 👋 Hey there! Welcome to my GitHub profile!<br><br>I'm Kaveendra Randeera, a field changed passionate Software Engineer and Bachelor of Science (Hons) Engineering graduate from University Moratuwa with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.<br><br>👨‍💻 Technical Skills:<br>- Programming Languages: Java, <br>- Web Development: HTML, CSS, JavaScript<br>- Databases: SQL<br>- Version Control: Git<br><br>📚 Education:<br>Bachelor of Scienece (Hons) Engineering - University of Moratuwa.<br><br>📫 Let's Connect:<br>I'm always open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn, and let's start a conversation!<br><br>Thanks for visiting my GitHub profile, and I look forward to connecting with you!<br><br>Happy coding! 😄
 
 
