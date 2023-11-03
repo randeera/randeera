@@ -13,7 +13,10 @@
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"         width="32" height="32" alt="twitter logo"/>
   </a>
   <a href="mailto:khkrandeera@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"           width="32" height="32" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"           width="36" height="36" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/randeera" target="_blank">
+   <img src="https://cdn.svgporn.com/logos/github-octocat.svg"         width="36" height="36" alt="git hub logo"/>
   </a>
 </div>
 
