@@ -45,7 +45,7 @@
         <img height="50px" src="https://cdn.svgporn.com/logos/spring-icon.svg"><br><span>Spring</span>
       </td>
       <td align="center">
-        <img height="50px" src="https://focusedlabs.io/hubfs/FocusedLabs_November_2022/Images/9995591c43c050fbfc25beacd8db1cc3d6eb7b75-600x315.png"><br><span>Spring Boot</span>
+        <img height="50px" src="https://focusedlabs.io/hubfs/FocusedLabs_November_2022/Images/9995591c43c050fbfc25beacd8db1cc3d6eb7b75-600x315.png"><br><span>Spring boot</span>
       </td>
     </tr>
 
