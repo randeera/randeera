@@ -1,5 +1,5 @@
 
-
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
 
 # 💫 About Me:
 👋 Hey there! Welcome to my GitHub profile!<br><br>I'm Kaveendra Randeera, a field changed passionate Software Engineer and Bachelor of Science (Hons) Engineering graduate from University Moratuwa with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.<br><br>👨‍💻 Technical Skills:<br>- Programming Languages: Java, <br>- Web Development: HTML, CSS, JavaScript<br>- Databases: SQL<br>- Version Control: Git<br><br>📚 Education:<br>Bachelor of Scienece (Hons) Engineering - University of Moratuwa.<br><br>📫 Let's Connect:<br>I'm always open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn, and let's start a conversation!<br><br>Thanks for visiting my GitHub profile, and I look forward to connecting with you!<br><br>Happy coding! 😄
@@ -15,10 +15,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruvini-Rangathara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvini-Rangathara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ruvini-Rangathara&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
