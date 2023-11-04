@@ -33,6 +33,7 @@ HTML | CSS | Java Script | Boostrap | jQuery
 
 SQL | MySQL | PostgreSQL
 
+<a href="https://www.mysql.com/" target="_blank"> <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AxEweLdmA1YQyZ_tLui_CIchbXtw6YkwkQ&usqp=CAU" alt="sql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="postgresl" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 
