@@ -22,14 +22,17 @@ Bachelor of Scienece (Hons) Engineering - University of Moratuwa.
 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodeJS" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 
-Java | JavaFX | JavaSE | JavaEE | Spring | Spring boot
+Java | JavaFX | JavaSE | JavaEE | Spring | Spring boot | NodeJS
 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="boostrap" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+
+
 
 HTML | CSS | Java Script | Boostrap | jQuery
 
