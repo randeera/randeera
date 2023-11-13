@@ -31,10 +31,11 @@ Java | JavaFX | JavaSE | JavaEE | Spring | Spring boot | NodeJS
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="boostrap" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=typescript" alt="nodeJS" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 
 
 
-HTML | CSS | Java Script | Boostrap | jQuery
+HTML | CSS | Java Script | Boostrap | jQuery | TypeScript
 
 <a href="https://www.mysql.com/" target="_blank"> <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AxEweLdmA1YQyZ_tLui_CIchbXtw6YkwkQ&usqp=CAU" alt="sql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
