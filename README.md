@@ -59,9 +59,10 @@ SQL | MySQL | PostgreSQL
 <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postgresl" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="postgresl" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 
 
-Linux | Git | GitHub | VS Code | InterlliJ Idea | Scene Builder | Postman | Tomcat
+Linux | Git | GitHub | VS Code | InterlliJ Idea | Scene Builder | Postman | Tomcat | FireBase
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
