@@ -34,7 +34,7 @@ Java | JavaFX | JavaSE | JavaEE | Spring | Spring boot | NodeJS
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=typescript" alt="nodeJS" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="nodeJS" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=sass" alt="angular" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 
 
 
@@ -61,10 +61,11 @@ SQL | MySQL | PostgreSQL
 <a href="https://www.slack.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="postgresl" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://parceljs.org/avatar.b1be591d.avif" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=vite" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=maven" alt="maven" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 
 
-Linux | Git | GitHub | VS Code | InterlliJ Idea | Scene Builder | Postman | Tomcat | FireBase | Parcel | Vite
+Linux | Git | GitHub | VS Code | InterlliJ Idea | Scene Builder | Postman | Tomcat | FireBase | Parcel | Vite | Maven
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
