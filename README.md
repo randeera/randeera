@@ -40,7 +40,6 @@ Java | JavaFX | JavaSE | JavaEE | Spring | Spring boot | NodeJS
 
 HTML | CSS | Java Script | Boostrap | jQuery | TypeScript | React | Angular |SCSS
 
-<a href="https://www.mysql.com/" target="_blank"> <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AxEweLdmA1YQyZ_tLui_CIchbXtw6YkwkQ&usqp=CAU" alt="sql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="postgresl" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 
@@ -63,6 +62,7 @@ SQL | MySQL | PostgreSQL
 <a href="https://www.slack.com" target="_blank"> <img src="https://parceljs.org/avatar.b1be591d.avif" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=maven" alt="maven" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=" alt="maven" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 
 
 Linux | Git | GitHub | VS Code | InterlliJ Idea | Scene Builder | Postman | Tomcat | FireBase | Parcel | Vite | Maven
